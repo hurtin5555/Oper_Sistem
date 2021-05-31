@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "dMoo3m/bAxnOLSfW0is766PIvCTSX1fwJjGVuEduGzoX7QMR9z99+XkkyVw25bagWVuwKnAwLjtkYXJg3Of2jQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Хуртин Никита\\Desktop\\Opera_Sistem_main\\laba_2\\labaratornaya_2_main\\Menu\\Menu.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"C:\\Users\\Хуртин Никита\\Desktop\\Opera_Sistem_main\\laba_2\\labaratornaya_2_main\\Task\\bin\\Debug\\Methods_For_lab_3\\Methods_For_lab_3.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\Users\\Хуртин Никита\\Desktop\\Opera_Sistem_main\\laba_2\\labaratornaya_2_main\\Task\\bin\\Debug\\Methods_For_lab_3\\Methods_For_lab_3.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
